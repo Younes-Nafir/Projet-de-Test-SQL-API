@@ -1,4 +1,4 @@
-# Résumé du Projet de Gestion des Données SQL et d'API
+# Projet de Gestion des Données SQL et d'API
 
 ## Contexte
 
